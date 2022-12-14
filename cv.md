@@ -34,8 +34,8 @@ No work experience in IT yet...
 ## Education
 * **Higher legal education:** graduated from the Belgorod Law Institute of the Ministry of Internal Affairs of the Russian Federation in 2002.
 * **Courses:** 
-  1. [Программист на JavaScript](https://netology.ru/development/)
-  1. [Learn JavaScript](https://learn.javascript.ru/)
+  * [Программист на JavaScript](https://netology.ru/development/)
+  * [Learn JavaScript](https://learn.javascript.ru/)
 
 ## Languages:
 1. Russian - Native
