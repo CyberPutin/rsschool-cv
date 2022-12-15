@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://CyberPutin.github.io/rsschool-cv/cv
+https://CyberPutin.github.io/rsschool-cv/
